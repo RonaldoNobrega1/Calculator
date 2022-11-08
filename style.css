@@ -16,7 +16,7 @@
 .grid {
   display: grid;
   height: 480px;
-  width: 320px;
+  width: 319px;
 }
 .item {
   color: white;
